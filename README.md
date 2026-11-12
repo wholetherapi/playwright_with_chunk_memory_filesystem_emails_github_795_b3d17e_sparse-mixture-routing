@@ -1,2 +1,13 @@
-# playwright_with_chunk_memory_filesystem_emails_github_795_b3d17e_sparse-mixture-routing
-Code for a Halcyon Research paper
+# Sparse Mixture Routing for Long-Context Retrieval
+
+**Paper:** Sparse Mixture Routing for Long-Context Retrieval
+**Venue:** ACL 2026
+**Authors:** Brian Carter, Maya Iversen, Tomasz Bielik
+**Repository Status:** ✅ Released — the implementation, experiment configurations and evaluation scripts are public.
+
+## Contents
+- `src/` — model and training code
+- `experiments/` — training configurations
+- `notebooks/` — analysis notebooks
+- `results/` — reported results
+- `tests/` — smoke tests
